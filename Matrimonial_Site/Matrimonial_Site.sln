@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrimonial_Site", "Matrimonial_Site.csproj", "{063D6824-35B4-4690-8A2A-F296ECFF27D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrimonial_client", "..\Matrimonial_client\Matrimonial_client.csproj", "{26194510-CB81-45FD-8DA3-41F8915A54A7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{063D6824-35B4-4690-8A2A-F296ECFF27D4} = {063D6824-35B4-4690-8A2A-F296ECFF27D4}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{063D6824-35B4-4690-8A2A-F296ECFF27D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063D6824-35B4-4690-8A2A-F296ECFF27D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063D6824-35B4-4690-8A2A-F296ECFF27D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063D6824-35B4-4690-8A2A-F296ECFF27D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26194510-CB81-45FD-8DA3-41F8915A54A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26194510-CB81-45FD-8DA3-41F8915A54A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26194510-CB81-45FD-8DA3-41F8915A54A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26194510-CB81-45FD-8DA3-41F8915A54A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C245DE39-F0BD-4366-A531-53157136B954}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+F:\sem_6\SOC\Matrimonial_Site\obj\Debug\Matrimonial_Site.csproj.AssemblyReference.cache
+F:\sem_6\SOC\Matrimonial_Site\obj\Debug\Matrimonial_Site.csproj.CoreCompileInputs.cache
+F:\sem_6\SOC\Matrimonial_Site\bin\Debug\Matrimonial_Site.dll.config
+F:\sem_6\SOC\Matrimonial_Site\bin\Debug\Matrimonial_Site.dll
+F:\sem_6\SOC\Matrimonial_Site\bin\Debug\Matrimonial_Site.pdb
+F:\sem_6\SOC\Matrimonial_Site\bin\Debug\EntityFramework.dll
+F:\sem_6\SOC\Matrimonial_Site\bin\Debug\EntityFramework.SqlServer.dll
+F:\sem_6\SOC\Matrimonial_Site\bin\Debug\EntityFramework.xml
+F:\sem_6\SOC\Matrimonial_Site\bin\Debug\EntityFramework.SqlServer.xml
+F:\sem_6\SOC\Matrimonial_Site\obj\Debug\Matrimonial_Site.csproj.CopyComplete
+F:\sem_6\SOC\Matrimonial_Site\obj\Debug\Matrimonial_Site.dll
+F:\sem_6\SOC\Matrimonial_Site\obj\Debug\Matrimonial_Site.pdb
+F:\sem_6\SOC\Matrimonial_Site\obj\Debug\Matrimonial_Site.Migrations.User.resources
+F:\sem_6\SOC\Matrimonial_Site\obj\Debug\Matrimonial_Site.csproj.GenerateResource.cache
+F:\sem_6\SOC\Matrimonial_Site\obj\Debug\Matrimonial_Site.Migrations.forgot.resources
